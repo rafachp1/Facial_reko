@@ -35,7 +35,7 @@ def comparar_rostros(ruta_imagen1, ruta_imagen2):
 
 
 if __name__ == "__main__":
-    ruta_imagen1 = r"C:\\Users\\RafaelCheco\Desktop\\pic1.jpg"
+    ruta_imagen1 = r"C:\\Users\\RafaelCheco\Desktop\\pic1.jpg" #Colocar con doble \\ para evitar problemas de lectura
     ruta_imagen2 = r"C:\\Users\\RafaelCheco\Desktop\\pic2.jpg"
 
     comparar_rostros(ruta_imagen1, ruta_imagen2)
